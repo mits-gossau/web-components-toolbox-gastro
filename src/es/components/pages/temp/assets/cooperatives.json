@@ -28,10 +28,10 @@
         "it": "genossenschaft-migros-aare"
       },
       "catering": {
-        "de": "https://gastro.migros.ch/de/catering/luzern.html",
-        "en": "https://gastro.migros.ch/de/catering/luzern.html",
-        "fr": "https://gastro.migros.ch/de/catering/luzern.html",
-        "it": "https://gastro.migros.ch/de/catering/luzern.html"
+        "de": "https://www.csm-aare.ch",
+        "en": "https://www.csm-aare.ch",
+        "fr": "https://www.csm-aare.ch",
+        "it": "https://www.csm-aare.ch"
       }
     }
   },
@@ -64,10 +64,10 @@
         "it": "genossenschaft-migros-luzern"
       },
       "catering": {
-        "de": "https://gastro.migros.ch/de/catering/luzern.html",
-        "en": "https://gastro.migros.ch/de/catering/luzern.html",
-        "fr": "https://gastro.migros.ch/de/catering/luzern.html",
-        "it": "https://gastro.migros.ch/de/catering/luzern.html"
+        "de": "https://www.csm-luzern.ch",
+        "en": "https://www.csm-luzern.ch",
+        "fr": "https://www.csm-luzern.ch",
+        "it": "https://www.csm-luzern.ch"
       }
     }
   },
@@ -82,10 +82,10 @@
         "it": "fr/migros-neuchatel-fribourg"
       },
       "catering": {
-        "de": "https://www.partyservicenefr.ch/",
-        "en": "https://www.partyservicenefr.ch/",
-        "fr": "https://www.partyservicenefr.ch/",
-        "it": "https://www.partyservicenefr.ch/"
+        "de": "https://gmnefr.migros-traiteur.ch",
+        "en": "https://gmnefr.migros-traiteur.ch",
+        "fr": "https://gmnefr.migros-traiteur.ch",
+        "it": "https://gmnefr.migros-traiteur.ch"
       }
     }
   },
