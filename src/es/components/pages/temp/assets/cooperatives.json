@@ -100,10 +100,10 @@
         "it": "genossenschaft-migros-ostschweiz"
       },
       "catering": {
-        "de": "https://ostschweiz.migros.ch/de/catering.html",
-        "en": "https://ostschweiz.migros.ch/de/catering.html",
-        "fr": "https://ostschweiz.migros.ch/de/catering.html",
-        "it": "https://ostschweiz.migros.ch/de/catering.html"
+        "de": "https://ostschweiz.catering-services.ch",
+        "en": "https://ostschweiz.catering-services.ch",
+        "fr": "https://ostschweiz.catering-services.ch",
+        "it": "https://ostschweiz.catering-services.ch"
       }
     }
   },
