@@ -107,6 +107,7 @@
 
   /* Emotion Pictures */
   --emotion-carousel-default-any-margin-top-first-child-custom: 0;
+  --emotion-carousel-default-any-margin-top-first-child-mobile-custom: 0;
 
   /* Emotion Pictures with button */
   --emotion-pictures-with-button-bg-background-color-custom: var(--color-secondary);
@@ -217,6 +218,7 @@
 
   /* Wrapper */
   --wrapper-teaser-p-margin: 0 0 var(--content-spacing, 0) 0;
+  --wrapper-teaser-ol-color: var(--m-white);
 
   /* Carousel */
 --carousel-two-default-section-child-a-picture-margin: auto auto 1rem;
