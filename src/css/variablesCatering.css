@@ -213,6 +213,9 @@
   --teaser-tile-p-line-height-custom: 1.75em;
   --teaser-tile-h2-margin-mobile: 0 0 0.5em 0;
 
+  /* Teaser - Round */
+  --teaser-round-h5-margin: var(--content-spacing) auto;
+
   /* Picture - Teaser */
   --picture-teaser-img-max-height-custom: 100%;
   
@@ -222,7 +225,7 @@
 
 
    /* Carousel */
---carousel-two-default-section-child-a-picture-margin: auto auto 1rem;
+  --carousel-two-default-section-child-a-picture-margin: auto auto 1rem;
   
   /* Details (Footer) */
   --details-default-icon-right-summary-border-bottom-open-custom: 1px solid var(--m-gray-500);

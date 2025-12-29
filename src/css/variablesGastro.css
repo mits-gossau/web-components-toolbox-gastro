@@ -213,6 +213,9 @@
   --teaser-tile-p-line-height-custom: 1.75em;
   --teaser-tile-h2-margin-mobile: 0 0 0.5em 0;
 
+  /* Teaser - Round */
+  --teaser-round-h5-margin: var(--content-spacing) auto;
+
   /* Picture - Teaser */
   --picture-teaser-img-max-height-custom: 100%;
 
